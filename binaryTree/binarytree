@@ -1,0 +1,16 @@
+// Binary tree is like the folder where there is another folder and inside the folder there is also another folder so its like the hirecrchy
+// binary tree nodes have at max two children
+// There are many parts of binary tree
+// 1.root nodes 
+// 2.leaf nodes
+// 3.children
+// 4.ancestor
+// 5.subtree
+// These are the basic terms in binary trees
+// there are some types of binary tree.
+// 1.Full BT: every node have either 0 or 2 children
+// 2.Complete BT: all level are completely filled in binary tree except the last level
+//                the last level has all posible nodes lies on left
+// 3.Perfect BT: All leaf nodes are have to be at the same level for being a perfect BT
+// 4.Balanced BT: The height of the binary tree should be at max logn where n is no. of nodes in binary tree
+// 5.Degenrate BT ; The degenrate binary tree is also known as linked list , where the each node has only one children
